@@ -1,5 +1,5 @@
 CSUY 3113 Final Project - Student Choice
-Project: Samurai Jump
+Project: Dungeon Samurai
     -top down dungeon explorer game
     
     controls:
